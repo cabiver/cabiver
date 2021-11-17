@@ -1,19 +1,45 @@
 ## languages and tools 
-<div align="center">
-    [![](https://img.shields.io/badge/-NPM-0D1117?logo=npm&logoColor=white)](https://npmjs.com/)
-    [![](https://img.shields.io/badge/-JavaScript-0D1117?logo=JavaScript&logoColor=E5AEF)](https://www.javascripttutorial.net/es6/)
-    [![](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js&logoColor=0BEE0E)](https://nodejs.org/)
-    [![](https://img.shields.io/badge/Visual_Studio_Code-0D1117?logo=visual%20studio%20code&logoColor=B236B4)](https://code.visualstudio.com/)
-    [![](https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=61dafb)](https://es.reactjs.org/)
-    [![](https://img.shields.io/badge/-Angular-0D1117?logo=angular&logoColor=E81104)](https://angular.io/)
-    [![](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb&logoColor=23EE0B)](https://www.mongodb.com/)
-    [![](https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=E5AEF)](https://www.typescriptlang.org/)
-    [![](https://img.shields.io/badge/-Python-0D1117?logo=Python&logoColor=E5AEF)](https://www.python.org/)
-    [![](https://img.shields.io/badge/-Express-0D1117?logo=Express)](https://expressjs.com/)
-    [![](https://img.shields.io/badge/-Django-0D1117?logo=Django&logoColor=E5AEF)](https://www.djangoproject.com/)
-    [![](https://img.shields.io/badge/-Git-0D1117?logo=Git&logoColor=E5AEF)](https://git-scm.com/)
-    [![](https://img.shields.io/badge/-Unity-0D1117?logo=Unity&logoColor=E5AEF)](https://unity.com/)
-</div>
+<p align="center">
+    <a href="https://npmjs.com/">
+        <img alt="Npm" src="https://img.shields.io/badge/-NPM-0D1117?logo=npm&logoColor=white">
+    </a>
+    <a href="https://www.javascripttutorial.net/es6/">
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=JavaScript&logoColor=E5AEF">
+    </a>
+    <a href="https://nodejs.org/">
+        <img alt="Node" src="https://img.shields.io/badge/-Node.js-0D1117?logo=node.js&logoColor=0BEE0E">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?logo=visual%20studio%20code&logoColor=B236B4">
+    </a>
+    <a href="https://es.reactjs.org/">
+        <img alt="React" src="https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=61dafb">
+    </a>
+    <a href="https://angular.io/">
+        <img alt="Angular" src="https://img.shields.io/badge/-Angular-0D1117?logo=angular&logoColor=E81104">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb&logoColor=23EE0B">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img alt="Type Script" src="https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=E5AEF">
+    </a>
+    <a href="https://www.python.org/">
+        <img alt="Python" src="https://img.shields.io/badge/-Python-0D1117?logo=Python&logoColor=E5AEF">
+    </a>
+    <a href="https://expressjs.com/">
+        <img alt="Express" src="https://img.shields.io/badge/-Express-0D1117?logo=Express">
+    </a>
+    <a href="https://www.djangoproject.com/">
+        <img alt="DJango" src="https://img.shields.io/badge/-Django-0D1117?logo=Django&logoColor=E5AEF">
+    </a>
+    <a href="https://git-scm.com/">
+        <img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?logo=Git&logoColor=E5AEF">
+    </a>
+    <a href="https://unity.com/">
+        <img alt="Unity" src="https://img.shields.io/badge/-Unity-0D1117?logo=Unity&logoColor=E5AEF">
+    </a>
+</p>
 
 
 
