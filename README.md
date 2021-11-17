@@ -1,20 +1,23 @@
-[![](https://img.shields.io/badge/-NPM-0D1117?logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js&logoColor=0BEE0E)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Visual_Studio_Code-0D1117?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=61dafb)](https://es.reactjs.org/)
-[![](https://img.shields.io/badge/-Angular-0D1117?logo=angular&logoColor=E81104)](https://angular.io/)
-[![](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb&logoColor=23EE0B)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=E5AEF)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-Python-0D1117?logo=Python&logoColor=E5AEF)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Express-CED505?logo=Express&logoColor=000)](https://expressjs.com/)
-[![](https://img.shields.io/badge/-Django-0C4B33?logo=Django&logoColor=E5AEF)](https://www.djangoproject.com/)
-[![](https://img.shields.io/badge/-Git-0D1117?logo=Git&logoColor=E5AEF)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Unity-0D1117?logo=Unity&logoColor=E5AEF)](https://unity.com/)
+## languages and tools 
+<div align="center">
+    [![](https://img.shields.io/badge/-NPM-0D1117?logo=npm&logoColor=white)](https://npmjs.com/)
+    [![](https://img.shields.io/badge/-JavaScript-0D1117?logo=JavaScript&logoColor=E5AEF)](https://www.javascripttutorial.net/es6/)
+    [![](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js&logoColor=0BEE0E)](https://nodejs.org/)
+    [![](https://img.shields.io/badge/Visual_Studio_Code-0D1117?logo=visual%20studio%20code&logoColor=B236B4)](https://code.visualstudio.com/)
+    [![](https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=61dafb)](https://es.reactjs.org/)
+    [![](https://img.shields.io/badge/-Angular-0D1117?logo=angular&logoColor=E81104)](https://angular.io/)
+    [![](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb&logoColor=23EE0B)](https://www.mongodb.com/)
+    [![](https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=E5AEF)](https://www.typescriptlang.org/)
+    [![](https://img.shields.io/badge/-Python-0D1117?logo=Python&logoColor=E5AEF)](https://www.python.org/)
+    [![](https://img.shields.io/badge/-Express-0D1117?logo=Express)](https://expressjs.com/)
+    [![](https://img.shields.io/badge/-Django-0D1117?logo=Django&logoColor=E5AEF)](https://www.djangoproject.com/)
+    [![](https://img.shields.io/badge/-Git-0D1117?logo=Git&logoColor=E5AEF)](https://git-scm.com/)
+    [![](https://img.shields.io/badge/-Unity-0D1117?logo=Unity&logoColor=E5AEF)](https://unity.com/)
+</div>
 
 
 
-
-### i don't know what say
+## i don't know what say
 
 ```sh
 cabiver = new human({
@@ -28,7 +31,7 @@ cabiver = new human({
     livesIn: "colombia",
 
     disadvantages: [
-        "Ex LoL player",
+        "Ex LoL player(for now)",
         "does not like to go out"
     ]
 })
