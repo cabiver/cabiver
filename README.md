@@ -43,7 +43,7 @@
 
 
 
-## i don't know what say
+## about me
 
 ```sh
 cabiver = new human({
@@ -51,7 +51,8 @@ cabiver = new human({
         "bored",
         "loose",
         "game lover",
-        "correcting roger"
+        "correcting roger",
+        "algorithmic"
     ],
 
     livesIn: "colombia",
